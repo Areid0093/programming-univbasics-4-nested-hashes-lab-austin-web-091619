@@ -106,8 +106,8 @@ def changing_alan
         }
      }
     alan_new_known_for = "GUI" 
-    
     programmer_hash[:alan_kay][:known_for] = alan_new_known_for
+    programmer_hash
      
 end
 
